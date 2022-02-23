@@ -1,0 +1,30 @@
+[
+    {
+        "_id" : 1,
+        "name" : "Fitness"
+    },
+    {
+        "_id" : 2,
+        "name" : "Medical"
+    },
+    {
+        "_id" : 3,
+        "name" : "Lifestyle"
+    },
+    {
+        "_id" : 4,
+        "name" : "Entertainment"
+    },
+    {
+        "_id" : 5,
+        "name" : "Industrial"
+    },
+    {
+        "_id" : 6,
+        "name" : "Pets and Animals"
+    },
+    {
+        "_id" : 7,
+        "name" : "Gaming"
+    }
+]
